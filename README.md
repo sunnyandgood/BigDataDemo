@@ -4,21 +4,21 @@
 
 * 项目展示之饼状图
 
-<div align="center"><img src="https://github.com/sunnyandgood/BigDataDemo/blob/master/file/pie.png"/></div>
+    <div align="center"><img src="https://github.com/sunnyandgood/BigDataDemo/blob/master/file/pie.png"/></div>
 
 * 项目展示之柱状图
 
-<div align="center"><img src="https://github.com/sunnyandgood/BigDataDemo/blob/master/file/bar1.png"/></div>
+    <div align="center"><img src="https://github.com/sunnyandgood/BigDataDemo/blob/master/file/bar1.png"/></div>
 
 * 项目展示之柱状图
 
-<div align="center"><img src="https://github.com/sunnyandgood/BigDataDemo/blob/master/file/bar2.png"/></div>
+    <div align="center"><img src="https://github.com/sunnyandgood/BigDataDemo/blob/master/file/bar2.png"/></div>
 
 ### 二、项目前期准备
 
 * 前期准备之集群搭建
 
-<div align="center"><img src="https://github.com/sunnyandgood/BigDataDemo/blob/master/file/VM.png"/></div>
+    <div align="center"><img src="https://github.com/sunnyandgood/BigDataDemo/blob/master/file/VM.png"/></div>
   
    * 一号机：jdk 、hadoop、hbase<进程：Jps、NameNode、DFSZKFailoverController>
   
